@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKP8HEzG5XKqVbq/giphy.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/assets/hi-matheus.gif" width="350"/>
 </p>
 
 
