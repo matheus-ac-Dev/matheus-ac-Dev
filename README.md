@@ -37,29 +37,49 @@
 <table>
   <tr>
     <th>Category</th>
-    <th>Skills</th>
+    <th>Skill</th>
     <th>Level</th>
   </tr>
+  <!-- Frontend -->
   <tr>
-    <td>Frontend</td>
-    <td>HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular</td>
-    <td>Beginner / Intermediate</td>
+    <td rowspan="7">Frontend</td>
+    <td>HTML</td>
+    <td>Intermediate</td>
   </tr>
+  <tr><td>CSS</td><td>Intermediate</td></tr>
+  <tr><td>JavaScript</td><td>Intermediate</td></tr>
+  <tr><td>TypeScript</td><td>Beginner</td></tr>
+  <tr><td>React</td><td>Beginner</td></tr>
+  <tr><td>Next.js</td><td>Beginner</td></tr>
+  <tr><td>Angular</td><td>Beginner</td></tr>
+
+  <!-- Backend -->
   <tr>
-    <td>Backend</td>
-    <td>C#, Node.js, Firebase</td>
+    <td rowspan="3">Backend</td>
+    <td>C#</td>
     <td>Beginner</td>
   </tr>
+  <tr><td>Node.js</td><td>Beginner</td></tr>
+  <tr><td>Firebase</td><td>Beginner</td></tr>
+
+  <!-- Databases -->
   <tr>
-    <td>Databases</td>
-    <td>MySQL, MongoDB</td>
+    <td rowspan="2">Databases</td>
+    <td>MySQL</td>
     <td>Beginner</td>
   </tr>
+  <tr><td>MongoDB</td><td>Beginner</td></tr>
+
+  <!-- Soft Skills -->
   <tr>
-    <td>Soft Skills</td>
-    <td>Problem-solving, Collaboration/Teamwork, Adaptability, Continuous learning, Attention to detail</td>
+    <td rowspan="5">Soft Skills</td>
+    <td>Problem-solving</td>
     <td>Good</td>
   </tr>
+  <tr><td>Collaboration / Teamwork</td><td>Good</td></tr>
+  <tr><td>Adaptability</td><td>Good</td></tr>
+  <tr><td>Continuous learning</td><td>Good</td></tr>
+  <tr><td>Attention to detail</td><td>Good</td></tr>
 </table>
 
 ---
