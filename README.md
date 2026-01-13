@@ -25,4 +25,4 @@
 
 ## 📫 Contact
 📧 Email: matheusalmeidacostaaaa@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/matheus-a-costa
+💼 LinkedIn: [linkedin.com/in/matheus-a-costa](https://linkedin.com/in/matheus-a-costa)
