@@ -11,7 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-ac-Dev&show_icons=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus-ac-Dev)
+
 
 ## 📫 Contato
 📧 Email: matheusalmeidacostaaaa@gmail.com  
