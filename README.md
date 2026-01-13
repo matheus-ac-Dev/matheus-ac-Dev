@@ -37,47 +37,27 @@
 <table>
   <tr>
     <th>Category</th>
-    <th>Skills & Tools</th>
+    <th>Skills</th>
     <th>Level</th>
   </tr>
   <tr>
     <td>Frontend</td>
-    <td>
-      HTML <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/> <br>
-      CSS <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/> <br>
-      JavaScript <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/> <br>
-      TypeScript <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/> <br>
-      React <img src="https://img.shields.io/badge/React-blueviolet?style=for-the-badge&logo=react"/> <br>
-      Next.js <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/> <br>
-      Angular <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular"/>
-    </td>
+    <td>HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular</td>
     <td>Beginner / Intermediate</td>
   </tr>
   <tr>
     <td>Backend</td>
-    <td>
-      C# <img src="https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp"/> <br>
-      Node.js <img src="https://img.shields.io/badge/Node.js-lightgreen?style=for-the-badge&logo=node.js"/> <br>
-      Firebase <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase"/>
-    </td>
+    <td>C#, Node.js, Firebase</td>
     <td>Beginner</td>
   </tr>
   <tr>
     <td>Databases</td>
-    <td>MySQL <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/> <br>
-        MongoDB <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
-    </td>
+    <td>MySQL, MongoDB</td>
     <td>Beginner</td>
   </tr>
   <tr>
     <td>Soft Skills</td>
-    <td>
-      Problem-solving <br>
-      Collaboration / Teamwork <br>
-      Adaptability <br>
-      Continuous learning <br>
-      Attention to detail
-    </td>
+    <td>Problem-solving, Collaboration/Teamwork, Adaptability, Continuous learning, Attention to detail</td>
     <td>Good</td>
   </tr>
 </table>
@@ -90,7 +70,9 @@
 ---
 
 <h2>📫 Contact</h2>
-<p>📧 Email: matheusalmeidacostaaaa@gmail.com</p>
-<p>💼 LinkedIn: <a href="https://linkedin.com/in/matheus-a-costa">linkedin.com/in/matheus-a-costa</a></p>
+<p>
+  <a href="mailto:matheusalmeidacostaaaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/matheus-a-costa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 </div>
