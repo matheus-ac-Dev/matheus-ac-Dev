@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou Matheus Almeida Costa
 
-<!--
-**matheus-ac-Dev/matheus-ac-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Web  
+🚀 Em constante aprendizado  
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+## 📫 Contato
+📧 Email: matheusalmeidacostaaaa@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/matheus-a-costa
