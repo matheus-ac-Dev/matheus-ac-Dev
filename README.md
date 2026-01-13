@@ -1,29 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 60">
   <text x="0" y="40" font-family="Courier New, monospace" font-size="24" fill="#4CAF50">
-    <tspan>
-      👋 Hi, I'm Matheus Almeida Costa
-      <animate attributeName="textLength"
-               from="0"
-               to="360"
-               dur="4s"
-               begin="0s"
-               fill="freeze" />
-      <animate attributeName="textLength"
-               from="360"
-               to="0"
-               dur="2s"
-               begin="4s"
-               fill="freeze" />
-      <animate attributeName="textLength"
-               from="0"
-               to="360"
-               dur="4s"
-               begin="6s"
-               repeatCount="indefinite"
-               fill="freeze" />
+    <!-- frame 1 -->
+    <tspan visibility="visible">
+      👋
+      <set attributeName="visibility" to="hidden" begin="0.5s" dur="0.1s"/>
     </tspan>
+    <!-- frame 2 -->
+    <tspan visibility="hidden">
+      👋 H
+      <set attributeName="visibility" to="visible" begin="0.5s" dur="0.1s"/>
+      <set attributeName="visibility" to="hidden" begin="1s" dur="0.1s"/>
+    </tspan>
+    <!-- frame 3 -->
+    <tspan visibility="hidden">
+      👋 Hi
+      <set attributeName="visibility" to="visible" begin="1s" dur="0.1s"/>
+      <set attributeName="visibility" to="hidden" begin="1.5s" dur="0.1s"/>
+    </tspan>
+    <!-- frame 4 -->
+    <tspan visibility="hidden">
+      👋 Hi,
+      <set attributeName="visibility" to="visible" begin="1.5s" dur="0.1s"/>
+      <set attributeName="visibility" to="hidden" begin="2s" dur="0.1s"/>
+    </tspan>
+    <!-- Continue para cada letra... -->
   </text>
 </svg>
+
 
 
 
