@@ -1,4 +1,30 @@
-<svg viewBox="0 0 700 60" xmlns="http://www.w3.org/2000/svg"> <style> text { font-family: 'Courier New', monospace; font-size: 24px; fill: #4CAF50; } .typing { overflow: hidden; white-space: nowrap; border-right: 2px solid #4CAF50; width: 0; animation: typing 4s steps(30, end) 0s 1 forwards, erasing 4s steps(30, end) 4s 1 forwards, loop 8s infinite; } @keyframes typing { from { width: 0; } to { width: 100%; } } @keyframes erasing { from { width: 100%; } to { width: 0; } } @keyframes loop { 0%, 50%, 100% { border-color: #4CAF50; } 25%, 75% { border-color: transparent; } } </style> <text x="0" y="40" class="typing">👋 Hi, I'm Matheus Almeida Costa</text> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 60">
+  <text x="0" y="40" font-family="Courier New, monospace" font-size="24" fill="#4CAF50">
+    <tspan>
+      👋 Hi, I'm Matheus Almeida Costa
+      <animate attributeName="textLength"
+               from="0"
+               to="360"
+               dur="4s"
+               begin="0s"
+               fill="freeze" />
+      <animate attributeName="textLength"
+               from="360"
+               to="0"
+               dur="2s"
+               begin="4s"
+               fill="freeze" />
+      <animate attributeName="textLength"
+               from="0"
+               to="360"
+               dur="4s"
+               begin="6s"
+               repeatCount="indefinite"
+               fill="freeze" />
+    </tspan>
+  </text>
+</svg>
+
 
 
 <div align="center">
