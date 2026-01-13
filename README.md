@@ -1,44 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 60">
-  <text x="0" y="40" font-family="Courier New, monospace" font-size="24" fill="#4CAF50">
-    <!-- frame 1 -->
-    <tspan visibility="visible">
-      👋
-      <set attributeName="visibility" to="hidden" begin="0.5s" dur="0.1s"/>
-    </tspan>
-    <!-- frame 2 -->
-    <tspan visibility="hidden">
-      👋 H
-      <set attributeName="visibility" to="visible" begin="0.5s" dur="0.1s"/>
-      <set attributeName="visibility" to="hidden" begin="1s" dur="0.1s"/>
-    </tspan>
-    <!-- frame 3 -->
-    <tspan visibility="hidden">
-      👋 Hi
-      <set attributeName="visibility" to="visible" begin="1s" dur="0.1s"/>
-      <set attributeName="visibility" to="hidden" begin="1.5s" dur="0.1s"/>
-    </tspan>
-    <!-- frame 4 -->
-    <tspan visibility="hidden">
-      👋 Hi,
-      <set attributeName="visibility" to="visible" begin="1.5s" dur="0.1s"/>
-      <set attributeName="visibility" to="hidden" begin="2s" dur="0.1s"/>
-    </tspan>
-    <!-- Continue para cada letra... -->
-  </text>
-</svg>
-
-
-
-
 <div align="center">
 
-<h1>👋 Hi, I'm Matheus Almeida Costa</h1>
+<!-- GIF animado no topo -->
+<img src="https://github.com/matheus-ac-Dev/SEU-REPOSITORIO/blob/main/assets/hi-matheus.gif?raw=true" width="350"/>
 
 <p>🎓 Systems Developer in training | 💻 Web dev, programming & databases</p>
 <p>📍 Brazil | 🌐 Open to learning and new opportunities</p>
-
-<!-- Typing effect simulated with GIF -->
-<img src="https://media.giphy.com/media/3o7TKP8HEzG5XKqVbq/giphy.gif" width="350"/>
 
 <marquee behavior="scroll" direction="left">🚀 Always coding & learning!</marquee>
 
