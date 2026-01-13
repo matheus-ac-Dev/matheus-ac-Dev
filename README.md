@@ -1,7 +1,7 @@
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKP8HEzG5XKqVbq/giphy.gif" width="350"/>
+</p>
 
-<!-- GIF animado no topo -->
-<img src="https://github.com/matheus-ac-Dev/SEU-REPOSITORIO/blob/main/assets/hi-matheus.gif?raw=true" width="350"/>
 
 <p>🎓 Systems Developer in training | 💻 Web dev, programming & databases</p>
 <p>📍 Brazil | 🌐 Open to learning and new opportunities</p>
