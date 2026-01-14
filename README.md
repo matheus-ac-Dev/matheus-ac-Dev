@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/matheus-ac-Dev/matheus-ac-Dev/main/assets/hi-matheus.gif" width="750"/>
-</p>
+
 
 
 <p>🎓 Systems Developer in training | 💻 Web dev, programming & databases</p>
@@ -91,6 +91,7 @@
 <p>
   <a href="mailto:matheusalmeidacostaaaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/matheus-a-costa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 </p>
 
 </div>
