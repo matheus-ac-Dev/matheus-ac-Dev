@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/matheus-ac-Dev/matheus-ac-Dev/main/assets/hi-matheus.gif" width="550"/>
+  <img src="https://raw.githubusercontent.com/matheus-ac-Dev/matheus-ac-Dev/main/assets/hi-matheus.gif" width="750"/>
 </p>
 
 
